@@ -1,2 +1,2 @@
 # fischerandom-startpos
-Fischer random chess start positions
+Pascal program generating Fischer random chess start positions.
